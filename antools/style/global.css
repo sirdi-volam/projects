@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+:root {
+  --font-poppins: 'Poppins', sans-serif;
+  --font-roboto: 'Roboto', sans-serif;
+
+  --width-1440: 1440px;
+  --width-1224: 1224px;
+
+  --background: rgb(30, 37, 43);
+
+  --color-white: rgba(255, 255, 255, 0.9);
+  --color-orange: rgb(255, 110, 48);
+  --color--black: rgb(30, 37, 43);
+  --color-text-38: rgba(255, 255, 255, 0.38);
+  --color-text-55: rgba(255, 255, 255, 0.55);
+  --color-text-78: rgba(255, 255, 255, 0.78);
+  --color-text-80: rgba(255, 255, 255, 0.8);
+  --color-text-90: rgba(255, 255, 255, 0.9);
+  --color-text3: #837a93;
+
+  --border-8: 8px;
+  --border-15: 15px;
+  --border-25: 25px;
+}
